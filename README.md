@@ -11,5 +11,5 @@ HTML, CSS
 This is a refactoring of the code for this website
 
 # Contact
-jslota17@comcast.net
+jslota17@comcast.net <br>
 linkedin.com/in/john-slota-83b432165/
